@@ -5,7 +5,7 @@ PATH
       blankslate (>= 2.1.2.4)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     blankslate (3.1.3)
 

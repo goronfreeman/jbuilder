@@ -2,12 +2,10 @@ PATH
   remote: .
   specs:
     jbuilder (0.3)
-      blankslate (= 2.1.2.4)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    blankslate (2.1.2.4)
 
 PLATFORMS
   ruby
